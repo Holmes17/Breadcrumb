@@ -1,4 +1,6 @@
 // Breadcrumbs
+//    Then to call the breadcrumbs onto your page (usually in the header file), simply use the following code:
+//    <?php custom_breadcrumbs(); ?>
 function custom_breadcrumbs() {
        
     // Settings
